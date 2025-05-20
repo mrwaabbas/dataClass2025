@@ -1,6 +1,6 @@
-## Data Story Methodology
-# By Mrwa Abbas
-# Date: May 20, 2025
+# Data Story Methodology
+## By Mrwa Abbas
+## Date: May 20, 2025
 
 For this data story, I wanted to report on an education story, especially focused on overcrowding in classrooms. I wanted to look at where the overcrowding was happening the most. I retrieved the data from NYC Open Data and the most recent data was from 2022. The data included class sizes from K-12 but after reading the legislation implemented in 2022 to reduce class sizes, I noticed that the compliance differed between clusters of grades. I chose to look at one group, which was grades 4-8, which had a legal cap of 23 students. I then took the average class size for each district, and found out how many districts were over the legal cap which was 17 districts out of 32. I then created a heat map with the average classes for each district in the city. Just by looking at the map, it is evident that Queens districts are experiencing the most overcrowding. 
 
